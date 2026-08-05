@@ -21,4 +21,7 @@ env/
 
 # IDE
 .vscode/
-.idea/
+.idea/santander-value-prediction-challenge/train.csv
+santander-value-prediction-challenge/test.csv
+santander-value-prediction-challenge/train.csv
+santander-value-prediction-challenge/test.csv
