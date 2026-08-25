@@ -75,8 +75,8 @@ MLP — на валидационном сплите). Стандартное о
 ## Структура репозитория
 
 ```
-├── pet_2.ipynb                   # ноутбук с полным пайплайном и результатами
-├── otchet_scoring_model.pdf      # отчёт с графиками и анализом
+├── end2end_scoring.ipynb    # ноутбук с полным пайплайном и результатами
+├── report.pdf              # отчёт с графиками и анализом
 └── README.md
 ```
 
@@ -84,7 +84,7 @@ MLP — на валидационном сплите). Стандартное о
 
 ```bash
 pip install -r requirements.txt
-jupyter lab pet_2.ipynb
+jupyter lab end2end_scoring.ipynb
 ```
 
 Датасет нужно скачать отдельно со
